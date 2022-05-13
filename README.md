@@ -8,3 +8,6 @@
 
 # CPPCHECKANALYSIS
 [![Cppcheck Analysis](https://github.com/rishivardhan01/M3_CAR_WIPER_SYSTEM/actions/workflows/Cppcheck_analysis.yml/badge.svg)](https://github.com/rishivardhan01/M3_CAR_WIPER_SYSTEM/actions/workflows/Cppcheck_analysis.yml)
+
+# Build on Linux
+[![Build-Linux CI](https://github.com/rishivardhan01/M3_CAR_WIPER_SYSTEM/actions/workflows/Build%20on%20Linux.yml/badge.svg)](https://github.com/rishivardhan01/M3_CAR_WIPER_SYSTEM/actions/workflows/Build%20on%20Linux.yml)
