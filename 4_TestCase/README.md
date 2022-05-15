@@ -1,20 +1,21 @@
-## High Level Test Cases
-   | Test ID | Description | Exp.i/p | Exp.o/p | Actual o/p | OUTPUT |
-   |---------|:------------|:--------|:--------|:-----------|:-------------|
-   | H_01 | check if the SWITCH is pressed  | program execution | Engine starts | RED LED ON | PASS |
-   | H_02 | check if the SWITCH is pressed  | program execution | Wiper starts  | BLUE LED ON | PASS |
-   | H_03 | check if the SWITCH is pressed  | program execution | Wiper starts  | GREEN LED ON | PASS |
-   | H_04 | check if the SWITCH is pressed  | program execution | Wiper starts  | ORANGE LED ON | PASS |
-   | H_05 | check if the SWITCH is pressed  | ----------------- | Engine stop | LED OFF | PASS |
+# DETAIL REQUIREMENTS :
 
-   
-   
-   
-## Low Level Test Plan
-   | Test ID | Description | Exp.i/p | Exp.o/p | Actual o/p | OUTPUT |
-   |---------|:------------|:--------|:--------|:-----------|:-------------|
-   | L_01 | check if the SWITCH is pressed  | program execution | Engine starts | RED LED ON | PASS |
-   | L_02 | check if the SWITCH is pressed again | program execution | Wiper starts and runs at 35 percent  | BLUE LED ON | PASS |
-   | L_03 | check if the SWITCH is pressed again | program execution | Wiper starts and runs at 70 percent | GREEN LED ON | PASS |
-   | L_04 | check if the SWITCH is pressed again | program execution | Wiper starts and runs at 100 percent | ORANGE LED ON | PASS |
-   | L_05 | check if the SWITCH is pressed again | ----------------- | Engine stop | LED OFF | PASS |
+# HIGHLEVEL REQUIREMENTS 
+
+|High Level Requirements|Description|
+|:------|:---------|
+|HLR1|Programming language(C language)|
+|HLR2|Arm based microcontroller(STM32F40VGT6)|
+|HLR3|operating system(Windows)|
+|HLR4|RAM(Min 4GB)|
+|HLR5|Hard Disk(Min 250GB)|
+
+# LOWLEVEL REQUIREMENTS
+
+|Low Level Reqiurements|Description|Status|
+|:-----|:--------|:---|
+|LLR1|ON-Ignition key|Implemented|
+|LLR2|Press Multi-functional button|Implemented|
+|LLR3|4 Different Color Leds|Implemented|
+|LLR4|Timer|Implemented|
+|LLR5|OFF-Wiper button|Implemented|
