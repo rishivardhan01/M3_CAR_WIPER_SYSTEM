@@ -11,7 +11,8 @@
 
 
 # WIPER MODE IS HIGH
-![image](https://user-images.githubusercontent.com/63336586/168247087-272497f1-6925-493f-b654-d5d159d07f53.png)
+![image](https://user-images.githubusercontent.com/63336586/168454122-5728d86b-a9d2-4620-8d57-19d3069a8497.png)
+
 
 
 # OFF STATE
