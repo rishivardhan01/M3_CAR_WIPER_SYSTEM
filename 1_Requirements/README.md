@@ -31,4 +31,21 @@
 # Where
   A wiper drive and two wiper arms make up a windshield wiper system. The drive pushes the two wiper arms across the windshield at an angle that allows the driver and passenger to see clearly. A carefully contoured rubber wiping lip gives the best possible wipe.
 
+
+# SWOT ANALYSIS
+
+# STRENGTH 
+  Low budget
+  Good reputation
   
+# WEAKNESS
+  Sructrual inertia
+  High transaction cost
+  
+# OPPURTUNITIES
+  Emerging new markets
+  Demand for saver equipments
+  
+# THREATS
+  Low bargaining Power
+  Economical crisis
