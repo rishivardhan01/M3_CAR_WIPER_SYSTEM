@@ -35,17 +35,17 @@
 # SWOT ANALYSIS
 
 # STRENGTH 
-  Low budget
-  Good reputation
+  * Low budget
+  * Good reputation
   
 # WEAKNESS
-  Sructrual inertia
-  High transaction cost
+  * Sructrual inertia
+  * High transaction cost
   
 # OPPURTUNITIES
-  Emerging new markets
-  Demand for saver equipments
+  * Emerging new markets
+  * Demand for saver equipments
   
 # THREATS
-  Low bargaining Power
-  Economical crisis
+  * Low bargaining Power
+  * Economical crisis
